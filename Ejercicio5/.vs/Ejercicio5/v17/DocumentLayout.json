@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\javi\\documents\\github\\ejercicio5ped\\ejercicio5\\ejercicio5\\frmguia6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\frmguia6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\javi\\documents\\github\\ejercicio5ped\\ejercicio5\\ejercicio5\\frmguia6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\frmguia6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\javi\\documents\\github\\ejercicio5ped\\ejercicio5\\ejercicio5\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\javi\\documents\\github\\ejercicio5ped\\ejercicio5\\ejercicio5\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\nodoarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\javi\\documents\\github\\ejercicio5ped\\ejercicio5\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012C306A-2E97-47AA-9658-87D3B8632CF3}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGuia6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\frmGuia6.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\frmGuia6.cs",
+              "ToolTip": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\frmGuia6.cs [Design]",
+              "RelativeToolTip": "Ejercicio5\\frmGuia6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:09:43.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodoArbol.cs",
+              "DocumentMoniker": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\NodoArbol.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\NodoArbol.cs",
+              "ToolTip": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\NodoArbol.cs",
+              "RelativeToolTip": "Ejercicio5\\NodoArbol.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:10:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:07:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\ArbolBinario.cs",
+              "ToolTip": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\ArbolBinario.cs",
+              "RelativeToolTip": "Ejercicio5\\ArbolBinario.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAgwLsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:07:20.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGuia6.cs",
+              "DocumentMoniker": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\frmGuia6.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\frmGuia6.cs",
+              "ToolTip": "C:\\Users\\Javi\\Documents\\GitHub\\Ejercicio5PED\\Ejercicio5\\Ejercicio5\\frmGuia6.cs",
+              "RelativeToolTip": "Ejercicio5\\frmGuia6.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:01:15.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
